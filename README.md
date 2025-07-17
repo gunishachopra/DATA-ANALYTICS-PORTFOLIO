@@ -1,5 +1,5 @@
 # DATA-ANALYTICS-PORTFOLIO
-A curated collection of data analytics projects across business strategy, people analysis, and product domains. Built using SQL, Python, Excel, Power BI, and Tableau.
+A curated collection of data analytics projects across business strategy, people analysis, Operations analytics and product domains. Built using SQL, Python, Excel, Power BI, and Tableau.
 
 # 📊 Data Analytics Portfolio – Gunisha Chopra
 
@@ -58,6 +58,9 @@ Tools: SQL Analyzed user behavior and engagement metrics to support marketing st
 ### 📉 [Market Sentiment & Trader Performance Analysis] (https://github.com/gunishachopra/MarketSentiments_-_TraderPerformance)
 Tools: Python, Pandas, Seaborn
 Combined Fear & Greed Index with trading data to analyze how sentiment shifts affect performance. Explored correlations, visualized behavioral patterns, and identified trends useful for risk-aware trading strategies.
+
+### ⚙️ [Operational Metric Spike Analysis] (https://github.com/gunishachopra/operational-metric-spike-analysis/tree/main)
+Tools: SQL, Excel Investigated dips in engagement and throughput across support and product teams. Delivered metric-spike insights, retention trends, and device-level usage patterns to help ops teams react faster and align KPIs with strategic growth goals.
 
 ### 📈 More Coming Soon
 - 🔧 KPI Dashboards (Sales, Marketing, Loan)  
