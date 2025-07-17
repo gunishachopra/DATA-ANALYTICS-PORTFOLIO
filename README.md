@@ -45,6 +45,10 @@ Evaluated the hiring funnel to uncover stage-wise drop-offs, time-to-hire metric
 
 ---
 
+📉 Market Sentiment & Trader Performance Analysis (https://github.com/gunishachopra/MarketSentiments_-_TraderPerformance)
+Tools: Python, Pandas, Seaborn
+Combined Fear & Greed Index with trading data to analyze how sentiment shifts affect performance. Explored correlations, visualized behavioral patterns, and identified trends useful for risk-aware trading strategies.
+
 ### 📈 More Coming Soon
 - 🔧 KPI Dashboards (Sales, Marketing, Loan)  
 - 🧪 Business Correlation Analysis  
