@@ -50,7 +50,7 @@ Evaluated the hiring funnel to uncover stage-wise drop-offs, time-to-hire metric
 
 ---
 
-📱 Instagram User Engagement Analysis (https://github.com/gunishachopra/Instagram-user-engagement-analysis)
+### 📱 Instagram User Engagement Analysis (https://github.com/gunishachopra/Instagram-user-engagement-analysis)
 Tools: SQL Analyzed user behavior and engagement metrics to support marketing strategy, user retention, and investor reporting. Delivered insights into loyalty, inactivity, hashtag trends, and bot detection to optimize campaign performance and platform health.
 
 ---
