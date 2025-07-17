@@ -27,6 +27,11 @@ Processed and analyzed 50,000+ loan records for credit risk profiling, target im
 
 ---
 
+### 💼 Financial Report Dashboard- Finanace Analytics (https://github.com/gunishachopra/FinanceReport_analysis)
+Tools: Power BI Built an executive-level dashboard summarizing income statements, balance sheets, and cash flow KPIs. Helped finance leaders monitor monthly performance, control costs, and align budgeting decisions with financial goals.
+
+---
+
 ### 🚗 [Automobile Market Analysis] (https://github.com/gunishachopra/automobile-market-analysis)  
 **Tools:** Excel, Tableau  
 Explored 11,000+ car listings to identify price drivers, feature-performance trade-offs, and market segmentation.
